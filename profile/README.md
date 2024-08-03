@@ -1,12 +1,7 @@
 > [!CAUTION]
 > Nexify is under prototype development, there will be a prototype release for anyone to use shortly.
 
-What is <a
-    href="https://nexify.to/"
-    style="color: white; text-decoration: none; underline: none; font-size: 12rem;"
-  >
-    Nexify
-  </a>?
+What is [https://nexify.to/](Nexify)?
 > Nexify is an all-in-one app that simplifies family management and finances by integrating tools for safety, budgeting, saving, investing, and a lot more into one platform.
 
 Why was Nexify created?
