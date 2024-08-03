@@ -1,7 +1,7 @@
 > [!CAUTION]
 > Nexify is under prototype development, there will be a prototype release for anyone to use shortly.
 
-What is [https://nexify.to/](Nexify)?
+What is [Nexify](https://nexify.to/)?
 > Nexify is an all-in-one app that simplifies family management and finances by integrating tools for safety, budgeting, saving, investing, and a lot more into one platform.
 
 Why was Nexify created?
